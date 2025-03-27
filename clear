@@ -1,0 +1,61 @@
+[33mcommit a0051f36f457f37e3cf968bb78da1ddfef788ad1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Kardel123 <154974043+Kardel123@users.noreply.github.com>
+Date:   Tue Mar 25 20:45:46 2025 +0800
+
+    First commit: Done moving all of my project files
+
+[33mcommit 6fb86404a2c754ae2c19911afd560ea11c61a424[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kardel123 <154974043+Kardel123@users.noreply.github.com>
+Date:   Thu Mar 13 19:17:41 2025 +0800
+
+    Add Category model and display categories data using Laravel directives
+
+[33mcommit 6123f09aac8f6ff9185f367f655ca079fcabf1f3[m
+Author: Kardel123 <154974043+Kardel123@users.noreply.github.com>
+Date:   Thu Feb 20 21:55:52 2025 +0800
+
+    Feat: Create categories and items tables migration
+
+[33mcommit 0cba0cf35ce09a7d469aa927c6bce152b0f662fb[m
+Author: Kardel123 <154974043+Kardel123@users.noreply.github.com>
+Date:   Thu Feb 20 21:48:35 2025 +0800
+
+    Ekoms King Posa
+
+[33mcommit 468d0f18df39680edd0ad8c0166a6ad34477f973[m
+Author: Kardel123 <154974043+Kardel123@users.noreply.github.com>
+Date:   Tue Feb 18 15:52:52 2025 +0800
+
+    Feat: Creating item add form
+
+[33mcommit 1565fbc851250e7237c218cd07c6324bd847a883[m
+Author: Kardel123 <154974043+Kardel123@users.noreply.github.com>
+Date:   Tue Feb 18 14:21:59 2025 +0800
+
+    Feat: Making page responsive and Integrating Bootstrap
+
+[33mcommit 3afc0b341ee472de491b60d3155a67aa415d7f5b[m
+Author: Kardel123 <154974043+Kardel123@users.noreply.github.com>
+Date:   Tue Feb 11 14:37:38 2025 +0800
+
+    Hello World
+
+[33mcommit 3ca39da662a9d2742384228de0e2a302f8a74de0[m
+Author: Kardel123 <154974043+Kardel123@users.noreply.github.com>
+Date:   Tue Feb 11 14:24:01 2025 +0800
+
+    Revert "Add HelloController and index view"
+    
+    This reverts commit 0c8d8203405d6584867d55da2a9412c2b55e5224.
+
+[33mcommit 0c8d8203405d6584867d55da2a9412c2b55e5224[m
+Author: Kardel123 <154974043+Kardel123@users.noreply.github.com>
+Date:   Tue Feb 11 14:21:45 2025 +0800
+
+    Add HelloController and index view
+
+[33mcommit f3c0e64586f6876229cf6def06c77a4c033127e0[m
+Author: ED JOSUE BORROMEO POSA <1010059@cc.usls.edu>
+Date:   Thu Feb 6 11:21:01 2025 +0800
+
+    My First Project
